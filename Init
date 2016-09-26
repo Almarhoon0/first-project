@@ -1,0 +1,16 @@
+// Initiates Art
+
+//Character
+sprite_index = character;
+image_index = 0;
+image_speed = 0;
+
+//Wall
+sprite_index = wall
+image_index = 0;
+image_speed = 0;
+
+//Ground
+sprite_index = ground
+image_index = 0;
+image_speed = 0;
