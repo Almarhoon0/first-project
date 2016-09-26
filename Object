@@ -1,0 +1,15 @@
+globalvar Speed;
+globalvar WindowSize.x;
+globalvar WindowSize.y;
+globalvar FrameRate;
+globalvar Ismoving;
+globalvar Gravity;
+globalvar GDir;
+
+Speed = 4;
+WindowSize.x = 640;
+WindowSize.y = 480;
+FrameRate = 30;
+Ismoving = 0;
+Gravity =  8
+GDir = 270;
